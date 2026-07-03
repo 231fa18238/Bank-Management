@@ -14,6 +14,10 @@
 
 [Live Demo](#demo) • [Features](#features) • [Installation](#installation) • [Documentation](#documentation)
 
+## 👨‍💻 Author
+
+**Asch Surya Kumar** — Full-stack developer and fintech enthusiast. Passionate about building secure, scalable banking systems with thoughtful UX and AI-powered features that make financial tools more accessible and intelligent.
+
 </div>
 
 ---
