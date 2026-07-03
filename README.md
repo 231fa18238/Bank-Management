@@ -22,11 +22,26 @@
 
 ---
 
+## � Topics
+
+`banking` • `fintech` • `full-stack` • `react` • `typescript` • `node.js` • `express` • `postgresql` • `machine-learning` • `ai-powered` • `fraud-detection` • `digital-banking` • `open-source`
+
+---
+
 ## 📖 About
 
-**Aura Bank** is a comprehensive, full-stack banking management system that brings together modern web technologies and AI-powered features. Designed for both customers and administrators, it provides a seamless digital banking experience with real-time transactions, intelligent loan analysis, fraud detection, and much more.
+**Aura Bank** is a comprehensive, full-stack banking management system that brings together modern web technologies and AI-powered intelligence. Built from the ground up with security, scalability, and user experience at its core, Aura Bank demonstrates enterprise-grade banking solutions with a contemporary tech stack.
 
-> 🎯 **Perfect for**: Learning fintech development, hackathon projects, or as a foundation for production banking applications.
+Whether you're learning fintech architecture, building a hackathon project, or exploring best practices in digital banking systems, Aura Bank provides a production-ready foundation with:
+
+- **End-to-end encryption** and JWT-based authentication
+- **Double-entry ledger** for financial data integrity  
+- **Machine learning models** for fraud detection, loan eligibility, and expense categorization
+- **Real-time analytics** with spending insights and trend analysis
+- **AI-powered support** with intelligent chatbot and web search integration
+- **Immersive UI** with 3D authentication and responsive design
+
+> 🎯 **Perfect for**: Fintech enthusiasts, developers learning secure banking systems, hackathon teams, and those seeking production-ready code examples.
 
 ---
 
