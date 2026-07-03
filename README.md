@@ -319,10 +319,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**Balaji** - [@9046balaji](https://github.com/9046balaji)
-
 ---
 
 <div align="center">
